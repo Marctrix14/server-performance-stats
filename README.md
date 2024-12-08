@@ -7,7 +7,7 @@ To run the bash script, run "chmod +x ./server-stats.sh" to be able to execute i
 Then run: ".server-stats.sh".
 After every change run "source ./server-stats.sh". 
 
-The following information will be output:
+SCRIPT's output: 
 - Total CPU usage
 - Total memory usage (Free vs Used including percentage)
 - Total disk usage (Free vs Used including percentage)
