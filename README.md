@@ -1,10 +1,9 @@
 # server-performance-stats
-Roadmap.sh DevOps beginner project 
 Check the project at the following link: 
 https://roadmap.sh/projects/server-stats
 
 To run the bash script, run "chmod +x ./server-stats.sh" to be able to execute it. 
-Then run: ".server-stats.sh".
+Then run: "./server-stats.sh".
 After every change run "source ./server-stats.sh". 
 
 SCRIPT's output: 
