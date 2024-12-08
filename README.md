@@ -1,5 +1,5 @@
 # server-performance-stats
-Check the project at the following link: 
+Check the project information at the following link: 
 https://roadmap.sh/projects/server-stats
 
 To run the bash script, run "chmod +x ./server-stats.sh" to be able to execute it. 
