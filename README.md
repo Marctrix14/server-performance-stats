@@ -2,8 +2,8 @@
 Check the project information at the following link: 
 https://roadmap.sh/projects/server-stats
 
-To run the bash script, run "chmod +x ./server-stats.sh" to be able to execute it. 
-Then run: "./server-stats.sh".
+To run the bash script, run "chmod +x ./server-stats.sh" to be able to execute it.<br>
+Then run: "./server-stats.sh".<br>
 After every change run "source ./server-stats.sh". 
 
 SCRIPT's output: 
